@@ -1,13 +1,13 @@
-# Course Template 
+# NGS Bioinformatics Virtual 2021
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-This is an example repository for a course made up of multiple modules.
+This is the repository for the NGS Bioinformatics Virtual 2021 course.
 
 ## Cloning the repository
 To checkout a repository made up of submodules please use
 
-git clone REPO_URL --recursive
+git clone https://github.com/WTAC-NGS/ngsbio_virtual_2021 --recursive
 
 ## Adding modules to the course respository as submodules
 To add a submodule to the repository use
@@ -44,4 +44,4 @@ Then you will need to commit the changes and push them
    
    `git commit -m "Added submodule igv"`
    
-   `git push origin master`
+   `git push origin main`
