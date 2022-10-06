@@ -1,0 +1,24 @@
+[submodule "unix"]
+	path = unix
+	url = https://github.com/WTAC-NGS/unix
+[submodule "data_formats"]
+	path = data_formats
+	url = https://github.com/WTAC-NGS/data_formats
+[submodule "read_alignment"]
+	path = read_alignment
+	url = https://github.com/WTAC-NGS/read_alignment
+[submodule "variant_calling"]
+	path = variant_calling
+	url = https://github.com/WTAC-NGS/variant_calling
+[submodule "structural_variation"]
+	path = structural_variation
+	url = https://github.com/WTAC-NGS/structural_variation
+[submodule "rna_seq"]
+	path = rna_seq
+	url = https://github.com/WTAC-NGS/rna_seq
+[submodule "assembly"]
+	path = assembly
+	url = https://github.com/WTAC-NGS/assembly
+[submodule "igv"]
+	path = igv
+	url = https://github.com/WTAC-NGS/igv

@@ -12,13 +12,13 @@ git clone https://github.com/WTAC-NGS/ngsbio_virtual_2021 --recursive
 ## Adding modules to the course respository as submodules
 To add a submodule to the repository use
 
-   `git submodule add https://github.com/ngs-training/igv`
+   `git submodule add https://github.com/WTAC-NGS/igv`
 
 By default, the submodule will be added into a directory named the same as the repository i.e. igv
 
 To use a different directory name for example module_igv use
 
-   `git submodule add https://github.com/ngs-training/igv module_igv`
+   `git submodule add https://github.com/WTAC-NGS/igv module_igv`
 
 This will create a new folder named igv/module_igv which contains a full clone of the source repository and a new .gitmodules file. 
 
@@ -28,7 +28,7 @@ The .gitmodules configuration file stores the mapping between the project’s UR
       
       `path = igv`
       
-      `url = https://github.com/ngs-training/igv`
+      `url = https://github.com/WTAC-NGS/igv`
 
 By default this new submodule will be tracking HEAD of the master branch. If you want your submodule to point to a specific tagged release use
 
