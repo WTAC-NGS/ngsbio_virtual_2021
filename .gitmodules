@@ -22,3 +22,6 @@
 [submodule "igv"]
 	path = igv
 	url = https://github.com/WTAC-NGS/igv
+[submodule "chipseq"]
+	path = chipseq
+	url = https://github.com/WTAC-NGS/chip_seq
